@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Divides the 10kHz CLK into 2.44 Hz and into 0.3 Hz. With this diversion I connected a flank detector and flipflops together that it creats a 8bit chasing light.
 
 ## How to test
 
-Explain how to use your project
+Connect the output pins with leds and look at it.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+leds, resistors
